@@ -1,6 +1,7 @@
 Hello All.
 I am Mahnoor Malik
-I am an electrical engineering student and currently on the way of becoming a software developer.
-I have started by the concepts of JAVA, PYTHON, C++, HTML, CSS, jQuery, JavaScript OOP, and SQL.
-I have started the practice phase and made this account for a lot of help plus accountability for myself. 
-Hoping to have a productive and pleasant journey.
+An electrical engineer to software developer.
+Currently I ma working as a .net developer.
+I am quite fluent in frontend lanaguages including HTML, CSS, Javascript, jQuery, and boostrap and databases including both SQL and noSL databases.
+I have also done multiple projects in ASP.Net framework as a backend.
+Currently working on angular.
